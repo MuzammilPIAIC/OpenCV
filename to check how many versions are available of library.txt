@@ -1,0 +1,4 @@
+pip install --use-deprecated=legacy-resolver dnspython==
+
+
+pip install --use-deprecated=legacy-resolver Library_name==
