@@ -1,3 +1,6 @@
+# download shape_predictor using below link
+https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
+
 # Virtual Makeup Opencv
 
 Use OpenCV and Dlib to create a virtual makeup application.
